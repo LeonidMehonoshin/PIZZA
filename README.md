@@ -1,4 +1,8 @@
 # PIZZA
+### Screenshots
+<img width="828" height="652" alt="1" src="https://github.com/user-attachments/assets/8917417a-8531-4713-a301-a3100d6e838e" />
+<img width="828" height="652" alt="0" src="https://github.com/user-attachments/assets/9b5aa20c-12e9-4e6f-8627-2a862b4f03ed" />
+
 ## Installation
 Linux/MacOS:
 ```bash
@@ -12,7 +16,5 @@ Windows:
 python -m venv venv
 venv\Scripts\activate.bat
 pip install pygame
-py main.py
+python3 main.py
 ```
-<img width="932" height="759" alt="0" src="https://github.com/user-attachments/assets/4d94d7e4-ace0-48b7-86fe-0a5c67e64d69" />
-<img width="932" height="759" alt="1" src="https://github.com/user-attachments/assets/ac578662-796f-4949-98ec-6c551d4c7999" />
