@@ -15,5 +15,6 @@ pip install pygame
 python3 main.py
 ```
 ### Screenshots
-<img width="828" height="652" alt="1" src="https://github.com/user-attachments/assets/8917417a-8531-4713-a301-a3100d6e838e" />
-<img width="828" height="652" alt="0" src="https://github.com/user-attachments/assets/9b5aa20c-12e9-4e6f-8627-2a862b4f03ed" />
+<img width="828" height="652" alt="0" src="https://github.com/user-attachments/assets/a0aa8a14-8f27-4988-aef2-400af6f13399" />
+<img width="828" height="652" alt="1" src="https://github.com/user-attachments/assets/eb92ba9b-d96b-4e10-b9aa-52c4b0308931" />
+<img width="573" height="416" alt="2" src="https://github.com/user-attachments/assets/89ba58bd-56df-47b1-bcc8-3937ed879db8" />
